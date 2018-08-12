@@ -1,0 +1,1 @@
+alarm[1] = global.one_second * 12;
